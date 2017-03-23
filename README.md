@@ -7,6 +7,7 @@ _The content will be uploaded as there is something._
 
 ### Code formatting tools
 
-#### Custom uncrustify config file
+#### Custom Uncrustify config file
 
-Attached file: [`phandbauer.cfg`](./phandbauer.cfg), V0.2
+Attached file: [`phandbauer.cfg`](./uncrustify/phandbauer.cfg), V0.2
+ - Based on [`default.cfg`](./uncrustify/default.cfg) default config
